@@ -29,3 +29,7 @@ Moreover, the system implements a **LRU caching system** to store in memory the 
 The project is fully runnable on colab at the following link: https://colab.research.google.com/drive/1Ongut-DPE8qX9b0d5WwC0O0Qd4AvC3ln#scrollTo=9jdL5VVfoRnS
 
 The inverted index is stored on a google drive folder and is downloaded automatically to avoid long computations. If you want to build from scratch the index, just remove the cell that downloads the files.
+
+## Acknowledgments
+
+This project was developed by myself, @ziaUbi and @EmanueleRsp for the Multimedia Information Retrieval and Computer Vision exam of the Artificial Intelligence and Data Engineering master course.

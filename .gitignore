@@ -1,0 +1,7 @@
+doc_index.pkl.zst
+lexicon.pkl.zst
+lexicon_with_offsets.pkl.zst
+merged_index.msgpack
+stats.pkl.zst
+
+trec_**
